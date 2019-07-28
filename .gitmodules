@@ -1,0 +1,7 @@
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/assumednormal/minimal.git
+[submodule "public"]
+	path = public
+	url = git@github.com:assumednormal/assumednormal.github.io.git
+	branch = master
