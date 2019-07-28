@@ -1,21 +1,21 @@
-baseURL = "http://example.com/"
+baseURL = "https://www.assumednormal.com/"
 languageCode = "en-us"
-title = "Minimal"
+title = "assumednormal blog"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+disqusShortname = "assumednormal" # delete this to disable disqus comments
+googleAnalytics = "UA-44194112-6"
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
+    author = "Max Mitchell"
+    description = "personal blog for all things normal"
+    githubUsername = "assumednormal"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Work Sans" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["python", "r"]
 
 [[menu.main]]
     url = "/"
@@ -37,26 +37,26 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:maxwell.w.mitchell@gmail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/assumednormal/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/assumednormal/"
     name = "twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/assumednormal/"
     name = "linkedin"
     weight = 4
 
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
+    url = "https://www.stackoverflow.com/users/774482/assumednormal"
     name = "stack-overflow"
     weight = 5
