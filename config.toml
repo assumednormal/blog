@@ -1,6 +1,6 @@
 baseURL = "https://www.assumednormal.com/"
 languageCode = "en-us"
-title = "assumed<br>normal"
+title = "assumednormal"
 theme = "minimal"
 disqusShortname = "assumednormal" # delete this to disable disqus comments
 googleAnalytics = "UA-44194112-6"
