@@ -14,7 +14,7 @@ googleAnalytics = "UA-44194112-6"
     backgroundColor = "white"
     font = "Work Sans" # should match the name on Google Fonts!
     highlight = true
-    highlightStyle = "solarized-dark"
+    highlightStyle = "dracula"
     highlightLanguages = ["python", "r"]
 
 [[menu.main]]

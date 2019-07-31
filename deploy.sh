@@ -5,6 +5,13 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# Clean the project.
+rm -rf public/categories
+rm -rf public/css
+rm -rf public/tags
+rm -f  public/*.html
+rm -f  public/*.xml
+
 # Build the project.
 hugo -t minimal # if using a theme, replace with `hugo -t <YOURTHEME>`
 
