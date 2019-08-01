@@ -1,8 +1,7 @@
 ---
 title: "Finite Population Correction"
-date: 2019-07-28
+date: 2019-08-01
 tags: []
-draft: true
 mathjax: true
 disableComments: false
 ---
