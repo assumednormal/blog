@@ -8,7 +8,7 @@ disableComments: false
 
 The coefficient of determination is typically written as $\textrm{R}^2=1-\textrm{SS}\_{\textrm{res}}/\textrm{SS}\_{\textrm{tot}}$. But there are a few assumptions behind the simple formula that lead to nonsensical results when violated.
 
-Suppose you fit a simple linear regression on some data set. If the independent and dependent variables have non-zero means, the intercept will necessarily be non-zero. If you force the intercept to zero, the $\textrm{R}^2$ of the fitted line may be less than zero.
+Suppose you fit a simple linear regression on some data set. If the independent and dependent variables are not proportional, the intercept will necessarily be non-zero. If you force the intercept to zero, the $\textrm{R}^2$ of the fitted line may be less than zero.
 
 ```r
 library(dplyr)
