@@ -36,27 +36,27 @@ googleAnalytics = "UA-44194112-6"
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
-# [[menu.icon]]
-#     url = ""
-#     name = "envelope-o"
-#     weight = 1
+[[menu.icon]]
+    url = "mailto:max@assumednormal.com"
+    name = "envelope-o"
+    weight = 1
 
 [[menu.icon]]
     url = "https://github.com/assumednormal/"
     name = "github"
-    weight = 1
+    weight = 2
 
 [[menu.icon]]
     url = "https://twitter.com/assumednormal/"
     name = "twitter"
-    weight = 2
+    weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/assumednormal/"
     name = "linkedin"
-    weight = 3
+    weight = 4
 
 [[menu.icon]]
     url = "https://www.stackoverflow.com/users/774482/assumednormal"
     name = "stack-overflow"
-    weight = 4
+    weight = 5
