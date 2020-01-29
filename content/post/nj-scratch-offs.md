@@ -64,7 +64,7 @@ Click the button below to retrieve up-to-date information on active scratch off 
                         "</td><td>" +
                         game.expectedValue +
                         "</td></tr>";
-                }) + "</table>";
+                }).join("") + "</table>";
                 document.getElementById("results").innerHTML = tableRows;
             }
         };
