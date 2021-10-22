@@ -2,6 +2,7 @@
 title: "Predictor Variance Reduces Standard Error of Slopes"
 date: 2019-08-19
 tags: []
+draft: true
 mathjax: true
 disableComments: false
 ---

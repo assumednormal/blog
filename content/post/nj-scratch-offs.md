@@ -2,6 +2,7 @@
 title: "NJ Scratch Offs"
 date: 2020-01-27
 tags: []
+draft: true
 mathjax: false
 disableComments: false
 ---
